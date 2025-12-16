@@ -1,2 +1,0 @@
-# OpenAI_API_KEY
-OpenAI API KEY
